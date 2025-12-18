@@ -1,0 +1,15 @@
+# Python
+myenv/
+__pycache__/
+*.pyc
+
+# Checkpoints / models
+checkpoints_dcgan/
+checkpoints_dcgan_512x128/
+
+# Generated samples
+samples_dcgan/
+samples_dcgan_512x128/
+
+# Large raw data (adjust if needed)
+SSS_raw/
